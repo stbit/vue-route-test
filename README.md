@@ -1,5 +1,5 @@
 Using npm:
 ```shell
-$ npm i -g npm
-$ npm i lodash
+$ npm i
+$ npm run serve
 ```
